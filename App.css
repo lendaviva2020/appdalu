@@ -1,0 +1,14 @@
+.footer {
+  margin-top: 60px;
+  padding: 24px 0 12px 0;
+  text-align: center;
+  background: #fff5ea;
+  color: #7c6a5c;
+  font-size: 1.08rem;
+  border-top: 1px solid #e5d4f6;
+}
+.footer-phrase {
+  margin-top: 8px;
+  font-size: 0.98rem;
+  color: #a176d6;
+}
